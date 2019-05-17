@@ -1,0 +1,20 @@
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\bin\Debug\Михаузэр.exe.config
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\bin\Debug\Михаузэр.exe
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\bin\Debug\Михаузэр.pdb
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\obj\Debug\Михаузэр.csprojAssemblyReference.cache
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\obj\Debug\Михаузэр.Form1.resources
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\obj\Debug\Михаузэр.Properties.Resources.resources
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\obj\Debug\Михаузэр.csproj.GenerateResource.cache
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\obj\Debug\Михаузэр.csproj.CoreCompileInputs.cache
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\obj\Debug\Михаузэр.exe
+C:\Users\MI\source\repos\Михаузэр\Михаузэр\obj\Debug\Михаузэр.pdb
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\bin\Debug\Михаузэр.exe.config
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\bin\Debug\Михаузэр.exe
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\bin\Debug\Михаузэр.pdb
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\obj\Debug\Михаузэр.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\obj\Debug\Михаузэр.Form1.resources
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\obj\Debug\Михаузэр.Properties.Resources.resources
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\obj\Debug\Михаузэр.csproj.GenerateResource.cache
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\obj\Debug\Михаузэр.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\obj\Debug\Михаузэр.exe
+C:\Users\MI\Desktop\Новая папка\Михаузэр\Михаузэр\obj\Debug\Михаузэр.pdb
